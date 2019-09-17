@@ -16,8 +16,10 @@ Complete the following tasks:
 
 ## List of documents
 
+  * [The duck](./duck.md)
   * [Morel ipsum](./lipsum.md)
   * [Chicken with whiskey](./chicken-whiskey.md)
+
 
 
 ## Contributors
