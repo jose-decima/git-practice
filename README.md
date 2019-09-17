@@ -22,3 +22,7 @@ Complete the following tasks:
 ## Contributors
 
   * Enrico
+
+---
+
+[ARE YOU READY?](https://www.youtube.com/watch?v=1el-P2eBvXs)
