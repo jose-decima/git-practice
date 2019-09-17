@@ -16,7 +16,7 @@ Complete the following tasks:
 
 ## List of documents
 
-  * ???
+  * [The duck](./duck.md)
 
 
 ## Contributors
