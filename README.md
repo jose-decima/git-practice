@@ -5,8 +5,8 @@
 Complete the following tasks:
 
   0. Fork this repo and clone it in your PC
-  1. Fix link name in list of documents for "lorem ipsum"
-  2. Add yourself to the list of contributors! (in README.md)
+  1. In the branch `lorem-ipsum`, fix typos in the link in for "lorem ipsum" in the file README.md
+  2. Wherever you see fit, add yourself to the list of contributors (in README.md)
   3. Add the 3 paragraphs from branch `more-lipsum` in `lorem-ipsum` branch
   4. Squash all commits in `lorem-ipsum` branch
   5. Move chicken recipe to a new branch `chicken-whiskey`
