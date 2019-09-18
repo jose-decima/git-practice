@@ -17,7 +17,7 @@ Complete the following tasks:
 ## List of documents
 
   * [The duck](./duck.md)
-  * [Morel ipsum](./lipsum.md)
+  * [Lorel ipsum](./lipsum.md)
   * [Chicken with whiskey](./chicken-whiskey.md)
 
 
@@ -25,3 +25,4 @@ Complete the following tasks:
 ## Contributors
 
   * Enrico
+  * Nacho
